@@ -1,5 +1,5 @@
 ---
-title: AANew Call a remote function module QA Green
+title: AANew Call a remote function module QA Green Gold
 description: Call a remote function module located in an on-premise system
 auto_validation: true
 time: 45
